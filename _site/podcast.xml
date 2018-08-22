@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>João Beleza Freire</title>
+    <description>Making websites</description>
+    <link>https://letrastudio.micro.blog/</link>
+    <pubDate>Tue, 21 Aug 2018 05:31:41 +0100</pubDate>
+    <lastBuildDate>Tue, 21 Aug 2018 05:31:41 +0100</lastBuildDate>
+	<itunes:image href="https://micro.blog/letrastudio/podcast.png" />
+	<itunes:category text="Society &amp; Culture">
+		<itunes:category text="Personal Journals"></itunes:category>
+	</itunes:category>
+	<itunes:author>João Beleza Freire</itunes:author>
+	<itunes:explicit>no</itunes:explicit>		
+	<itunes:owner>
+		<itunes:name>João Beleza Freire</itunes:name>
+		<itunes:email></itunes:email>
+	</itunes:owner>
+	<language>en</language>
+    
+		
+    
+  </channel>
+</rss>
