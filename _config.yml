@@ -1,0 +1,51 @@
+highlighter: "rouge"
+# - markdown: "kramdown"
+
+defaults:
+    -
+        scope:
+            path: "" # empty string for all files
+            type: pages
+        values:
+            layout: default
+    -
+        scope:
+            path: "" # empty string for all files
+            type: posts
+        values:
+            layout: post
+
+plugins:
+  - jekyll-sitemap
+
+title: "João Beleza Freire"
+tagline: ""
+description: "Follow <a href=\"https://micro.blog/letrastudio\">@letrastudio on Micro.blog</a>."
+credits: "Follow <a href=\"https://micro.blog/letrastudio\">@letrastudio on Micro.blog</a>."
+baseurl: ""
+url: "https://letrastudio.micro.blog"
+markdown: "kramdown"
+username: "letrastudio"
+microblog_user: "letrastudio"
+permalink: "/:year/:month/:day/:title.html"
+relative_permalinks: false
+author: "João Beleza Freire"
+name: "João Beleza Freire"
+gravatar_hash: "82123e197118796ee56a5eab21a958ea"
+avatar: "https://micro.blog/letrastudio/avatar.jpg"
+full_name: "João Beleza Freire"
+bio: ""
+twitter_username: ""
+github_username: ""
+instagram_username: ""
+paginate: 20
+paginate_path: "/page/:num/"
+timezone: "WET"
+site_id: "5968"
+gems: ["jekyll-paginate"]
+itunes_description: "Making websites"
+itunes_category: "Society & Culture"
+itunes_subcategory: "Personal Journals"
+itunes_author: "João Beleza Freire"
+itunes_email: ""
+podcast: false
